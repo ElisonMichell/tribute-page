@@ -3,7 +3,6 @@
 <div align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ElisonMichell/tribute-page?color=111&style=for-the-badge">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ElisonMichell/tribute-page?color=111&style=for-the-badge">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ElisonMichell/tribute-page?color=111&style=for-the-badge">
   <img alt="GitHub license" src="https://img.shields.io/github/license/ElisonMichell/tribute-page?color=111&style=for-the-badge">
   <img alt="Status" src="https://img.shields.io/static/v1?label=Status&message=Complete&color=Green&style=for-the-badge">
   <a href="https://elisonmichell.github.io/tribute-page/">
